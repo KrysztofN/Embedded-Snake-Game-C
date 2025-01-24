@@ -1,5 +1,5 @@
 #include <REGX52.H>
-
+// Neccesary includes
 #define LED P0_0
 
 unsigned char code Tab[] = {0xEF,0xDF,0xBF,0x7F};
