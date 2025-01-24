@@ -1,4 +1,4 @@
-#h2 🐍 EMBEDDED C SNAKE GAME 🐍
+## 🐍 EMBEDDED C SNAKE GAME 🐍
 
 Embedded Snake game built with AT89C52 microcontroller featuring motor feedback and multi-display output. The game runs on a 1.3824MHz clock using LM041L LCD for the main display, with additional 7-segment displays for score tracking. Player input comes through a matrix keyboard, and the L293D motor driver adds physical feedback to gameplay events.
 <br>
